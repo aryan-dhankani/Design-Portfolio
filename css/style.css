@@ -1471,7 +1471,7 @@ a:hover {
   position: absolute;
   left: 0;
   top: 0;
-  background: url(../images/lines.png);
+  background: url(../images/DP.png);
   z-index: 1;
 }
 .page-header .inner {
@@ -2486,6 +2486,9 @@ a:hover {
   font-family: "Fjalla One", sans-serif;
   text-transform: uppercase;
   margin-bottom: 50px;
+  color: #808080;
+}
+.footer a {
   color: #808080;
 }
 .footer ul {
