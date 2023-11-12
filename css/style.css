@@ -2248,7 +2248,7 @@ a:hover {
 .news .post .post-content .post-date {
   display: block;
   margin-bottom: 20px;
-  color: #color-green;
+  color: green;
   font-weight: 600;
 }
 .news .post .post-content p {
