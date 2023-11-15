@@ -1554,8 +1554,8 @@ a:hover {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  padding-top: 70px;
-  padding-bottom: 50px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 .works.two-cols ul li {
   width: 50%;
@@ -1578,6 +1578,7 @@ a:hover {
   float: left;
   margin: 0;
   padding: 0;
+  padding-top: 100px;
 }
 .works ul li {
   width: 33.33333%;
@@ -1668,7 +1669,7 @@ a:hover {
 .filter-bar {
   width: 100%;
   float: left;
-  margin-bottom: 30px;
+  margin-bottom: 70px;
 }
 .filter-bar .works-filter {
   float: left;
@@ -2247,7 +2248,7 @@ a:hover {
 .news .post .post-content .post-date {
   display: block;
   margin-bottom: 20px;
-  color: #color-green;
+  color: green;
   font-weight: 600;
 }
 .news .post .post-content p {
